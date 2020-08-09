@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Nagasuruthika's github stats](https://github-readme-stats.vercel.app/api?username=nagasuruthika&show_icons=true&hide_border=true)
-<p><img src="https://komarev.com/ghpvc/?username=atarax665" alt="counter" /></p>
+<p><img src="https://komarev.com/ghpvc/?username=Nagasuruthika" alt="counter" /></p>
 
 
 
