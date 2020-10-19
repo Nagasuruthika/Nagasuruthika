@@ -25,7 +25,7 @@ __Languages and Tools:__ 🛠
 
 <hr>
 
-__Connect with me:__ <br>
+__Connect with me:__ 🤝
 [<img align="left" alt="Nagasuruthika_Linkedin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/nagasuruthika) <br> <br>
 
  <p align="left">
