@@ -6,7 +6,7 @@
 
  <hr>
 
-## Languages and Tools: 🔧
+## Languages and Tools: <img src="giphy.gif" height="32px">
 
 <code><img height="30" src="https://i.imgur.com/zINUxVf.png"></code>
 <code><img height="30" src="https://i.imgur.com/Ao2P8iG.png"></code>
