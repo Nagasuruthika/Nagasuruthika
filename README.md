@@ -6,7 +6,7 @@
 
  <hr>
 
-__Languages and Tools:__ 🛠  
+## Languages and Tools: 🔧
 
 <code><img height="30" src="https://i.imgur.com/zINUxVf.png"></code>
 <code><img height="30" src="https://i.imgur.com/Ao2P8iG.png"></code>
@@ -25,7 +25,7 @@ __Languages and Tools:__ 🛠
 
 <hr>
 
-# Connect with me <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Handshake.gif" height="32px">
+## Connect with me <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Handshake.gif" height="32px">
 
 [<img align="left" alt="Nagasuruthika_Linkedin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/nagasuruthika)
 
