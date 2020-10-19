@@ -1,4 +1,4 @@
- # Hi there !
+ # Hey there <img src="https://tenor.com/view/wave-hi-hello-gif-12701684" width="24px"> 
 <p align="center">
 
  <img src="https://github-readme-stats.vercel.app/api?username=Nagasuruthika&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/> <br>
