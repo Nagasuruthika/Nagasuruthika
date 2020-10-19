@@ -16,7 +16,7 @@ __Languages and Tools:__ 🛠
 
 <hr>
 
-__Connect with me__ 
+__Connect with me:__ <br>
 [<img align="left" alt="Nagasuruthika_Linkedin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/nagasuruthika) <br>
  <p align="right">
  <img src="https://komarev.com/ghpvc/?username=Nagasuruthika" alt="counter" />
