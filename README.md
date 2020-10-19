@@ -6,7 +6,7 @@
 
  <hr>
 
-## Languages and Tools: <img src="giphy.gif" height="32px">
+## Languages and Tools: <img src="64de8f9f17c46d18-laptop-gifs-find-share-on-giphy.gif" height="32px">
 
 <code><img height="30" src="https://i.imgur.com/zINUxVf.png"></code>
 <code><img height="30" src="https://i.imgur.com/Ao2P8iG.png"></code>
