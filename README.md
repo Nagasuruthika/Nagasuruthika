@@ -25,12 +25,13 @@ __Languages and Tools:__ 🛠
 
 <hr>
 
-__Connect with me:__ 🤝<br>
-[<img align="left" alt="Nagasuruthika_Linkedin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/nagasuruthika) <br> <br>
+# Connect with me <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Handshake.gif" height="32px">
 
- <p align="left">
- <img src="https://komarev.com/ghpvc/?username=Nagasuruthika" alt="counter" />
-</p>
+[<img align="left" alt="HarshitaRaj_website" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />](https://harshita248.github.io/PersonalPortfolio/)
+
+[<img align="left" alt="Nagasuruthika_Linkedin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/nagasuruthika)
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Harshita248&repo=Nagasuruthika&countColorcountColor&countColor=%237B1E7B"/>
 </p>
 
 
