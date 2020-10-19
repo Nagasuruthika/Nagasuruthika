@@ -6,7 +6,7 @@
 
  <hr>
 
-_Languages and Tools:_ 🛠  
+__Languages and Tools:__ 🛠  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -16,7 +16,7 @@ _Languages and Tools:_ 🛠
 
 <hr>
 
- ## Connect with me 
+__Connect with me__ 
 [<img align="left" alt="Nagasuruthika_Linkedin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/nagasuruthika) <br>
  <p align="right">
  <img src="https://komarev.com/ghpvc/?username=Nagasuruthika" alt="counter" />
